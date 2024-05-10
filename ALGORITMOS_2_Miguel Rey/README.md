@@ -1,4 +1,4 @@
-# NOMBRE DEL ALUMNO
+# Miguel Rey
 
 # Factorial Calculator
 
