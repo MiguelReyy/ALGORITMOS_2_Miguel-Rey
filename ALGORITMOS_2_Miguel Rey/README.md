@@ -56,3 +56,14 @@ Supongamos que tenemos la lista de números: [34, 7, 23, 32, 5].
 
 3. Repetimos el proceso con el resto de numeros hasta compararlos todos y el resultado es la lista ordenada.
     1. Al final, la lista ordenada sería: [5, 7, 23, 32, 34].
+  
+## Ejercicio Functools
+### Descripción
+Este proyecto presenta una clase llamada SimpleOperations en Python. Esta clase ofrece funciones para calcular descuentos y tasas de impuestos. Emplea la herramienta functools.partial para generar versiones especializadas de estas funciones con parámetros preestablecidos.
+
+### Funcionalidades
+apply_discount(price, discount): Reducción aplicada al precio proporcionado, devolviendo el nuevo precio.
+calculate_tax(price, tax_rate): Cálculo e inclusión del impuesto en el precio dado.
+
+## Link al repositorio de github
+https://github.com/MiguelReyy/ALGORITMOS_2_Miguel-Rey/edit/main/ALGORITMOS_2_Miguel%20Rey/README.md
