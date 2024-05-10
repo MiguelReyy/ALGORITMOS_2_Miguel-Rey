@@ -66,4 +66,4 @@ apply_discount(price, discount): Reducción aplicada al precio proporcionado, de
 calculate_tax(price, tax_rate): Cálculo e inclusión del impuesto en el precio dado.
 
 ## Link al repositorio de github
-https://github.com/MiguelReyy/ALGORITMOS_2_Miguel-Rey/edit/main/ALGORITMOS_2_Miguel%20Rey/README.md
+https://github.com/MiguelReyy/ALGORITMOS_2_Miguel-Rey/tree/main
